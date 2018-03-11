@@ -1,5 +1,7 @@
 node_modules
+www
 .tmp
+.sourcemaps
 .sass-cache
 **/bower_components or sometimes it is lib/**
 platforms
